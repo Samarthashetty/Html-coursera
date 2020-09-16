@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UV-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>My profile</title>
-	<link rel="stylesheet" href="style.css">
+	
 <style>
 * {
 	box-sizing: border-box;
@@ -209,12 +209,6 @@ p {
 		<h3 id="college">College</h3>
 		<p>hfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  xuhfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  xuhfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  xuhfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  xuhfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  xuhfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  xuhfg gfgerrg iec vuyevdc bbcybecy bew ycew bxew c xe xw x c ce x  </p>
 	</section>
-</div>
-
-<div>
-	
-		<p>Click <a href="https://samarthashetty.github.io/Html-coursera/">hrer</a> to view in Github</p>
-	
 </div>
 </body>
 </html>
